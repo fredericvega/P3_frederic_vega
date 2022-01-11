@@ -1,0 +1,19 @@
+{
+  "name": "p3_frederic_vega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass --watch sass/main.scss:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericvega/P3_frederic_vega.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericvega/P3_frederic_vega/issues"
+  },
+  "homepage": "https://github.com/fredericvega/P3_frederic_vega#readme"
+}
